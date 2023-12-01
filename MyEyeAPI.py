@@ -1,10 +1,14 @@
 from flask import Flask, request, jsonify
 import cv2
 import base64
+import os
 import tempfile
 from openai import OpenAI
 
 app = Flask(__name__)
+if __name__ == '__main__':
+    port = int(os.environ.get('PORT', 5000))  # Default to 5000 if PORT not set
+    app.run(debug=True, host='0.0.0.0', port=port)
 
 # Initialize the OpenAI client with your API key
 openai_client = OpenAI(api_key='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')
