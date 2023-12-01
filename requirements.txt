@@ -86,6 +86,9 @@ starlette==0.27.0
 tomlkit==0.12.0
 toolz==0.12.0
 tqdm==4.66.1
+flask
+python-dotenv
+gunicorn
 traitlets==5.14.0
 typer==0.9.0
 typing_extensions==4.8.0
