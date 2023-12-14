@@ -1,0 +1,198 @@
+[
+	This is a inhouse electronics store
+    {
+        "id": 1,
+        "name": "AC",
+        "description": "A contemporary air conditioner",
+        "price": 29499,
+        "manufacturer": "BreezeTech",
+        "image": "ac.png",
+        "discount": 15
+    },
+    {
+        "id": 2,
+        "name": "Blender",
+        "description": "A cutting-edge blender",
+        "price": 1999,
+        "manufacturer": "BlendGenius Solutions",
+        "image": "blender.png",
+        "discount": 5
+    },
+    {
+        "id": 3,
+        "name": "Camera",
+        "description": "A digital camera",
+        "price": 39999,
+        "manufacturer": "SnapShot Innovations",
+        "image": "camera.png",
+        "discount": 30
+    },
+    {
+        "id": 4,
+        "name": "Charger",
+        "description": "A cutting-edge portable charger",
+        "price": 3599,
+        "image": "charger.png",
+        "discount": 0
+    },
+    {
+        "id": 5,
+        "name": "Doorbell",
+        "description": "A modern smart doorbell",
+        "price": 199,
+        "image": "doorbell.png",
+        "discount": 0
+    },
+    {
+        "id": 6,
+        "name": "Drone",
+        "description": "A futuristic drone",
+        "price": 3499,
+        "image": "drone.png",
+        "discount": 12
+    },
+    {
+        "id": 7,
+        "name": "Fridge",
+        "description": "A stainless steel fridge",
+        "price": 89999,
+        "manufacturer": "CoolSpace Innovations",
+        "image": "fridge.png",
+        "discount": 25
+    },
+    {
+        "id": 8,
+        "name": "Gaming Console",
+        "description": "A next-gen gaming console",
+        "price": 49999,
+        "manufacturer": "PlayFusion",
+        "image": "gaming-console.png",
+        "discount": 8
+    },
+    {
+        "id": 9,
+        "name": "Hairdryer",
+        "description": "A premium hairdryer",
+        "price": 6999,
+        "manufacturer": "StylePro Innovations",
+        "image": "hairdryer.png",
+        "discount": 19
+    },
+    {
+        "id": 10,
+        "name": "Kettle",
+        "description": "A state-of-the-art electric kettle",
+        "price": 1799,
+        "manufacturer": "HeatWave Solutions",
+        "image": "kettle.png",
+        "discount": 4
+    },
+    {
+        "id": 11,
+        "name": "Electronic Keyboard",
+        "description": "An electronic keyboard",
+        "price": 11499,
+        "manufacturer": "SoundWave Innovations",
+        "image": "keyboard.png",
+        "discount": 0
+    },
+    {
+        "id": 12,
+        "name": "Lawn Mower",
+        "description": "A robotic lawn mower",
+        "price": 21999,
+        "manufacturer": "GrassMaster Corp.",
+        "image": "lawn-mower.png",
+        "discount": 26
+    },
+    {
+        "id": 13,
+        "name": "Microwave",
+        "description": "A state-of-the-art microwave",
+        "price": 5999,
+        "manufacturer": "WaveCook Solutions",
+        "image": "microwave.png",
+        "discount": 17
+    },
+    {
+        "id": 14,
+        "name": "Mobile Phone",
+        "description": "A cutting-edge smartphone",
+        "price": 16999,
+        "manufacturer": "NexaMobile",
+        "image": "mobile-phone.png",
+        "discount": 50
+    },
+    {
+        "id": 15,
+        "name": "Oven",
+        "description": "A state-of-the-art microwave",
+        "price": 13499,
+        "manufacturer": "WaveCook Solutions",
+        "image": "oven.png",
+        "discount": 77
+    },
+    {
+        "id": 16,
+        "name": "Sewing Machinne",
+        "description": "high-tech sewing machine",
+        "price": 9999,
+        "manufacturer": "StitchMaster Corp.",
+        "image": "sewing-machine.png",
+        "discount": 66
+    },
+    {
+        "id": 17,
+        "name": "Smartwatch",
+        "description": "n innovative smartwatch",
+        "price": 5999,
+        "manufacturer": "TimeTech Creations",
+        "image": "smartwatch.png",
+        "discount": 3
+    },
+    {
+        "id": 18,
+        "name": "Speaker",
+        "description": "A smart speaker",
+        "price": 4599,
+        "manufacturer": "EchoWave Systems",
+        "image": "speaker.png",
+        "discount": 23
+    },
+    {
+        "id": 19,
+        "name": "Thermostat",
+        "description": "smart thermostat",
+        "price": 1299,
+        "manufacturer": "ClimaControl Systems",
+        "image": "thermostat.png",
+        "discount": 5
+    },
+    {
+        "id": 20,
+        "name": "TV",
+        "description": "sleek modern TV",
+        "price": 199999,
+        "manufacturer": "VisionTech",
+        "image": "tv.png",
+        "discount": 13
+    },
+    {
+        "id": 21,
+        "name": "Vacuum Cleaner",
+        "description": "A high-tech vacuum cleaner",
+        "price": 13999,
+        "manufacturer": "DustBuster Corp.",
+        "image": "vacuum-cleaner.png",
+        "discount": 14
+    },
+    {
+        "id": 22,
+        "name": "Washing Machine",
+        "description": "A futuristic washing machine",
+        "price": 24999,
+        "manufacturer": "AquaWave Inc.",
+        "image": "washing-machine.png",
+        "discount": 16
+    }
+]
