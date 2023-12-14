@@ -6,9 +6,13 @@ from openai import OpenAI
 from flask_cors import CORS, cross_origin
  
 app = Flask(__name__)
+
+# Get the OpenAI API key from the environment variable
+openai_api_key = os.environ.get('openaikey')
+
  
 # Initialize the OpenAI client globally
-openai_client = OpenAI(api_key='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')
+openai_client = OpenAI(api_key=openai_api_key)
 assistant_id_1= ""
 thread_id_1= ""
 
