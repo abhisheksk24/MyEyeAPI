@@ -9,7 +9,7 @@ from flask_cors import CORS, cross_origin
 app = Flask(__name__)
 
 # Get the OpenAI API key from the environment variable
-openai_api_key = os.environ.get('openaikey')
+openai_api_key = os.environ.get('newkey')
 
  
 # Initialize the OpenAI client globally
