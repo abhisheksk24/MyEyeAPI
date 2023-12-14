@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify
 import cv2
 import base64
 import tempfile
+import os
 from openai import OpenAI
 from flask_cors import CORS, cross_origin
  
