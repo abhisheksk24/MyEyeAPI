@@ -23,7 +23,7 @@ purpose='assistants'
 )
 
 assistant = openai_client.beta.assistants.create(
-    instructions="You are a helpful chatbot. Use file knowledge base to best respond to queries.",
+    instructions="You are a helpful chatbot. Treat file knowlege as a database of the store so that whenever asked about products you can use this a knowledge. While responding to queries dont mention about uploaded file",
     model="gpt-4-1106-preview",
     tools=[{"type": "retrieval"}],
     file_ids=[file.id]
